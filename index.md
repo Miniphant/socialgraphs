@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## What can we learn from 20 years of headlines?
 
-You can use the [editor on GitHub](https://github.com/Miniphant/socialgraphs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Have you been ever thought about how the data we consume, is biased and most likely altering your everyday desitions. Right now most of the events come form a rather small portion of news networks that are owned by a few countries.  Our understanding of the word is influenced by powerful actors and we would like to know how. To work with this subject,  we would have to think about different issues such as: the advent of a globalized world, the impact of major events in our understanding of our society, the acceptance of a more interconnected world and the new challenges that are unique to this era. For example, how attitudes towards politics and international organizations changed after the financial downfall of 2008? Or how has media treated the topic of climate change?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fortunately, the amount of possible data is enormous. Unfortunately, we found out that is too enormous. The idea was to extract THE HEADLINES from the year 2000, from as many different NEWS sources as possible. During the process of downloading the data. We had to reduce the number of sources to three and the time span begins from 2005 for the new York times and 2008 for the Guardian.  Before then, the data is unreliable or too fragmented. We also had to compromise with the representativeness of the sources, even though most of the biggest newspapers have versions in English.
 
-### Markdown
+We divided the data in six categories. How? you may ask. We created a dictionary for each category using a tool called power thesaurus , the result is a list of fourteen hundred words in average for each category. The frequency of the words for each headline will determine the category to which it belongs to. We plan to play with  individual and combined networks, both directed and weighted to extract the information we are after. Takuya is particularly interested in centrality as a tool to find crucial events, Esther is interested in language analysis and Laura is leaning towards visualization and the change in narrative throughout the years.
+
+![TheGuardian](https://github.com/Miniphant/socialgraphs/blob/master/Theguardian.jpg)
+
+
+
+### Social Graphs and Interactions 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +29,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/Miniphant/socialgraphs/blob/master/2006.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
