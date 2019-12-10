@@ -4,10 +4,11 @@ Have you been ever thought about how the data we consume, is biased and most lik
 
 ![Theguardia](https://github.com/Miniphant/hello_world/Theguardian.jpg)
 
+![2007](2007.png)
 
-![TheGuardian](https://github.com/Miniphant/socialgraphs//Theguardian.jpg)
+![TheGuardian](https://github.com/Miniphant/socialgraphs/Theguardian.jpg)
 
-![2006](https://github.com/Miniphant/socialgraphs/blob/master/2006.png =100x100)
+![2006](https://github.com/Miniphant/socialgraphs/blob/master/2006.png)
 
-![2006](https://github.com/Miniphant/socialgraphs/blob/master/2006.png){:height="36px" width="36px"}
+![2006](https://github.com/Miniphant/socialgraphs/blob/master/2006.png)
 
