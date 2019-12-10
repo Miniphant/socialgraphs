@@ -5,14 +5,18 @@ Parting from this idea, we decided to work with 20 year of headlines extrated fr
 
 ![Theguardian](Theguardian.jpg)
 
-The downloaded data emcompases the period from the 7th of September of 2019 to the 11th of November of 2019 and approximately 77 MB of data. In the paper the news are clasiffied in five categories: *News, Opinion, Sport, Culture and Lifestyle*. These categories are further subdivided in several othe sub-categories.
+The downloaded data encompasses the period from the 7th of September of 2019 to the 11th of November of 2019 and approximately 77 MB of data. In the paper the news are classified in five categories: *News, Opinion, Sport, Culture and Lifestyle*. These categories are further subdivided in several other sub-categories.
 
 ### How does it look?
 _____________________
 
-![Numnber of headlines](Numnber of headlines.pgn)
+![Numberheadlines](Numberheadlines.png)
 
 
+### Using Keywords
+
+
+![Numberheadlinekey](Numberheadlinekey.png)
 
 ### The networks
 ________________
@@ -20,7 +24,11 @@ ________________
 
 The first part of the headline analysis includes a network analysis.
 
+![keyword1](keyword1.png)
 
+![keyword2](keyword2.png)
+
+![keyword3](keyword3.png)
 
 ## The language
 _______________
