@@ -10,13 +10,13 @@ The downloaded data encompasses the period from the 7th of September of 2019 to 
 ### How does it look?
 _____________________
 
-![Numberheadlines](Numberheadlines.png)
+![numberheadlines](numberheadlines.png)
 
 
 ### Using Keywords
 
 
-![Numberheadlinekey](Numberheadlinekey.png)
+![numberheadlinekey](numberheadlinekey.png)
 
 ### The networks
 ________________
