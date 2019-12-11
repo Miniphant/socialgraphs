@@ -1,11 +1,11 @@
 # What can we learn from 20 years of headlines?
-
+=================================================================================================================================
 At some point we stopped thinking about the way we consume media. The increase of journalistic sources, whether they are reliable or not, has only increased throughout the last two decades and the emergence of social media will only add data to the universe of information on the internet. 
 Parting from this idea, we decided to work with 20 year of headlines extrated from the english newspaper **[The Guardian](https://www.theguardian.com/international)**. Fortunately for us, The Guardian is an open newspaper and has a respectable international edition. According to them, The Guardian is now the 3rd largest individual newspaper website in the world.
 
 ![Theguardian](Theguardian.jpg)
 
-The downloaded data encompasses the period from the 7th of September of 2019 to the 11th of November of 2019 and approximately 77 MB of data. In the paper the news are classified in five categories: *News, Opinion, Sport, Culture and Lifestyle*. These categories are further subdivided in several other sub-categories.
+The downloaded data encompasses the period from the 7th of September of 2019 to the 11th of November of 2019 and approximately 77 MB of data. In the paper the news are classified in five categories: *News, Opinion, Sport, Culture and Lifestyle*. These categories are further subdivided in several other sub-categories. For more detailed information, please visit the [Explainer Notebook](https://nbviewer.jupyter.org/github/Miniphant/socialgraphs/blob/master/Final%20Project.ipynb).
 
 ## **<span style="color:#4d98e7">How does it look?</span>**
 ___
