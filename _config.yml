@@ -3,4 +3,7 @@ logo: circle.jpg
 description: https://nbviewer.jupyter.org/github/Miniphant/socialgraphs/blob/master/Final%20Project.ipynb
 show_downloads: true
 google_analytics:
+navbar-links:
+  Resources:
+    - Explainer notebook: "http://deanattali.com/beautiful-jekyll/"
 theme: jekyll-theme-minimal
