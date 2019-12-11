@@ -3,12 +3,4 @@ logo: circle.jpg
 description: [ExplainerNotebook](https://nbviewer.jupyter.org/github/Miniphant/socialgraphs/blob/master/Final%20Project.ipynb)
 show_downloads: true
 google_analytics:
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true
 theme: jekyll-theme-minimal
-
