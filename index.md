@@ -7,13 +7,13 @@ Parting from this idea, we decided to work with 20 year of headlines extrated fr
 
 The downloaded data encompasses the period from the 7th of September of 2019 to the 11th of November of 2019 and approximately 77 MB of data. In the paper the news are classified in five categories: *News, Opinion, Sport, Culture and Lifestyle*. These categories are further subdivided in several other sub-categories.
 
-## How does it look?
-_____________________
+## **<span style="color:#4d98e7">How does it look?</span>**
+___
 
 The number of headlines per year spans from 60000 thousand to 70000. A further subdivision by categories shows the amount of headlines per subcategory, and surprizingly for the whole period the largest sub-category was sports, followed by Opinion, football and world news.
 
 ![numberheadlines](numberheadlines.png)                           ![circle](circle.jpg)
-_____
+___
 ![Subcategories](Subcategories.png)
 
 According to this, before aditional analysis one could expect a sports based entity of information, or just a lot of football. At this point one would start to wonder, is the sports section so big, because its an English paper? or having a sports section makes the newspaper profitable, and more in tune with its readers interests?
@@ -39,27 +39,8 @@ Given the apparent randomness of the words, we chose the one person, phenomenon 
 
 ![numberheadlinekey](numberheadlinekey.png)
 
-## <span style="color:#4d98e7">The network</span>
-________________
 
-The network analysis includes three types of network calculation for each ocurrence.
-
-
-### twitter
-![keyword1](keyword1.png)
-
-
-
-### snowden
-![keyword2](keyword2.png)
-
-
-
-### meetoo
-![keyword3](keyword3.png)
-
-
-## The language
+## <span style="color:#4d98e7">The language</span>
 _______________
 
 The language used in the headlines is concise and impersonal (except for the Opinion section), as opposed to other sources of text on the internet, namely social media. Consequently the corpus of the headlines, lacked distinctive slang, or culturally accepted expressions that could make the text analysis challenging. However there are is a considerable amount of acronyms or nouns that may be unrelated to the bigger picture.
@@ -72,24 +53,68 @@ So, what else can we do if we want to examine this corpus in a less obvious fash
 
  To accomplish this purpose we used [term frequency–inverse document frequency](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) (*TF-IDF*), which adds weight to the words that are important for the body of text.
 
+
 ### 2006-2010
 
-The wordcloud selcted for this period is the one for the year 2009. 
 ![2009](2009.png)
-Throughout this year, some of the the events with more relative importance:
-Obama was inagurated as president of the  US
-The [count of tweets exploded](https://medium.com/dmrc-at-large/twitter-probably-isn-t-dying-but-is-it-becoming-less-sociable-d768a9968982)
-Swine flu outbreak
-
+The wordcloud selcted for this period is the one for the year 2009. Throughout this year, some of the the events with more relative importance:<br>
+Obama was **inagurated** as president of the  US. <br>
+The [count of tweets exploded](https://medium.com/dmrc-at-large/twitter-probably-isn-t-dying-but-is-it-becoming-less-sociable-d768a9968982) accoding to **twitter** usage statistics.  <br>
+[**Swine** flu outbreak](https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html).  <br>
+The **bailout** of the too big too fail banks is still a thing.  <br>
 
 
 ### 2011-2015
  ![2013](2013.png)
+ 
+Some comments on this years wordcloud:<br>
+**Snowden**'s whistleblowing was a big thing in 2013 and especially for **The guardian** due to the fact that the leaked information on the **NSA** (another big word), was leaked to the newspapers journalists. <br>
+Cambridge **analytica** was founded. <br>
+Active people in the international arena made their way into our wordcloud: Hassan **Rouhani**, Mohamed **Morsi**, **Tamerlan Tsarnaev**. <br>
+And apparently a lot of people wrote to **[The Guardian Letters](https://www.theguardian.com/tone/letters)**.<br>
 
 ### 2015-2019
  ![2018](2018.png)
  
+ And finally in 2018, some exciting ocurrences took place:
+ The **[#metoo](https://twitter.com/hashtag/MeToo?src=hash&lang=/en)** movement reached its peak.<br>
+ Jamal **Khashoggi** dissapeared in Turkey.<br>
+ Sergei **Skripal**, a former Russian military officer was poisoned with **novichok**.<br>
+ Judge Brett **Kavanaugh** was appointed to the supreme court.<br>
+  In Britain, The Guardian revealed and published the **Windrush** scandal, a fire broke out in the **Grenfell**/ tower.
+
  
+## <span style="color:#4d98e7">The networks</span>
+________________
+
+The network analysis includes three types of network centrality for each occurance: <span style="color:#67a7ea">degree centrality, eigenvalue and betweeness</span>.
+
+Color scale by subgenre
+
+
+### meetoo
+The resulting network for each network, yielded 
+
+![keyword1](keyword1.png)
+
+<span style="color:#b4fb00">light green</span>
+<span style="color:#eadc18">yellow</span>
+<span style="color:#db4c22">The red</span>
+<span style="color:#6985d5">blue</span>
+<span style="color:#7bc25e">dark green</span>
+
+### snowden
+![keyword2](keyword2.png)
+
+
+
+### twitter
+![keyword3](keyword3.png)
+
+Distribution degree
+
+The number of peaks is the same as the number of clusters
+nodes are more connected  
 
 ## Sentiment of the headlines
 _____________________________
