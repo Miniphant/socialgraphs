@@ -1,7 +1,7 @@
 # What can we learn from 20 years of headlines?
 
 At some point we stopped thinking about the way we consume media. The increase of journalistic sources, whether they are reliable or not, has only increased throughout the last two decades and the emergence of social media will only add data to the universe of information on the internet. 
-Parting from this idea, we decided to work with 20 year of headlines extrated from the english newspaper **[The Guardian](https://www.theguardian.com/international)**. Fortunately for us, The Guardian is an open newspaper and has a respectable international edition. According to them, The Guardian is now the 3rd largest individual newspaper website in the world.
+Parting from this idea, we decided to work with 20 year of headlines extrated from the english newspaper **[The Guardian](https://www.theguardian.com/international)**. Fortunately for us, The Guardian is an open newspaper and has a respectable international edition. According to them, The Guardian is now the third largest individual newspaper website in the world.
 
 ![Theguardian](Theguardian.jpg)
 
