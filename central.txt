@@ -1,0 +1,67 @@
+twitter : 
+bet
+('2007-03-11', ' Technology ')  Twitter crowd goes bananas at SXSW 
+('2007-09-25', ' Media ')  Do you use Twitter for reporting 
+('2010-12-29', ' Media ')  Forecast for 2011 Mark Rock on Twitter s IPO and Arrington leaving TechCrunch 
+('2010-12-27', ' Life and style ')  What happened next The student followed by Kanye West on Twitter 
+('2008-04-17', ' Politics ')  Highlights of Gordon Brown s US visit as posted by his aides on Twitter 
+
+deg
+('2009-12-01', ' Technology ')  Twitter Facebook and Google turn red for World Aids Day 
+('2010-03-16', ' Technology ')  Traffic to Twitter and Facebook fell in February in US says Compete 
+('2009-08-06', ' Technology ')  Twitter Facebook Google and LiveJournal under attack 
+('2010-01-12', ' Technology ')  How Facebook and Twitter could save us from dreaded email overload 
+('2009-05-21', ' Technology ')  A good day for phishing on Facebook and Twitter 
+
+eig
+('2009-12-01', ' Technology ')  Twitter Facebook and Google turn red for World Aids Day 
+('2009-08-06', ' Technology ')  Twitter Facebook Google and LiveJournal under attack 
+('2009-05-21', ' Technology ')  A good day for phishing on Facebook and Twitter 
+('2010-03-16', ' Technology ')  Traffic to Twitter and Facebook fell in February in US says Compete 
+('2010-01-12', ' Technology ')  How Facebook and Twitter could save us from dreaded email overload 
+
+
+snowden : 
+bet
+('2015-11-23', ' Music ')  Autre Ne Veut creating protest songs for the Snowden generation 
+('2015-11-23', ' Music ')  Laura Snowden review a young guitarist of poise and intensity 
+('2015-12-16', ' US news ')  How would Snowden vote Republican debate shows limited options 
+('2013-06-10', ' World news ')  Snowden leak shines light on US intelligence agencies use of contractors 
+('2013-06-10', ' Opinion ')  Snowden s revelations must not blind us to government as a force for good Polly Toynbee 
+
+deg
+('2014-07-04', ' US news ')  Hillary Clinton NSA whistleblower Edward Snowden has right to legal defence in US video interview 
+('2013-06-10', ' US news ')  Edward Snowden s explosive NSA leaks have US in damage control mode 
+('2013-12-14', ' US news ')  US may never know extent of Edward Snowden NSA leaks report 
+('2013-06-22', ' US news ')  Support NSA whistleblower Edward Snowden says Julian Assange 
+('2015-03-04', ' US news ')  Edward Snowden s lawyers working to bring NSA whistleblower back to US 
+
+eig
+('2014-07-04', ' US news ')  Hillary Clinton NSA whistleblower Edward Snowden has right to legal defence in US video interview 
+('2013-06-10', ' US news ')  Edward Snowden s explosive NSA leaks have US in damage control mode 
+('2013-06-23', ' US news ')  NSA director Edward Snowden has caused irreversible damage to US 
+('2015-03-04', ' US news ')  Edward Snowden s lawyers working to bring NSA whistleblower back to US 
+('2013-06-22', ' US news ')  Support NSA whistleblower Edward Snowden says Julian Assange 
+
+
+metoo : 
+bet
+('2019-11-21', ' Film ')  Judy Punch review brutal and brilliantly bizarre MeToo fairytale 
+('2019-11-12', ' Opinion ')  Women with a MeToo complaint are being silenced for the sake of politics Gaby Hinsliff 
+('2017-10-16', ' UK news ')  Metoo trend highlights sexual harassment in wake of Weinstein claims 
+('2019-10-28', ' Books ')  This Is Pleasure by Mary Gaitskill review pitch perfect response to MeToo 
+('2019-10-20', ' Books ')  Fiona Benson wins Forward prize with Greek myth poems for MeToo age 
+
+deg
+('2019-04-09', ' Opinion ')  The MeToo movement gave a voice to silenced women so why are films about it all made by men 
+('2017-12-12', ' Opinion ')  So men are afraid after MeToo Think about what it s like for women Jessica Valenti 
+('2018-01-17', ' Opinion ')  How should young women react as MeToo moves into dating Female writers discuss Anne Perkins Iman Amrani Marie Le Conte Rachel Shabi and Ash Sarkar 
+('2018-08-06', ' Opinion ')  Transgender men can help the MeToo movement Don t exclude us Lee Hurley 
+('2018-09-17', ' Film ')  Sean Penn salacious MeToo movement will divide men and women 
+
+eig
+('2019-04-09', ' Opinion ')  The MeToo movement gave a voice to silenced women so why are films about it all made by men 
+('2017-12-12', ' Opinion ')  So men are afraid after MeToo Think about what it s like for women Jessica Valenti 
+('2018-08-20', ' Opinion ')  Young women are smashing it at Edinburgh as the MeToo legacy kicks in Rhiannon Lucy Cosslett 
+('2018-05-31', ' Opinion ')  From lack of women in boardrooms to MeToo I m bored with male excuses Rhiannon Lucy Cosslett 
+('2018-03-08', ' Opinion ')  Disabled women see MeToo and think what about us Anne Wafula Strike 
