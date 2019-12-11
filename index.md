@@ -98,7 +98,7 @@ The resulting network for each network, yielded
 
 ![keyword1](keyword1.png)
 
-The #MeToo phenomenon is associated mainly with the following categories: <span style="color:#b4fb00">society</span>, <span style="color:#eadc18">US News</span> and <span style="color:#db4c22">opinion</span>. This can be seen in the clusters created by the eigenvalue centrality measure.
+The #MeToo phenomenon is associated mainly with the following categories: **<span style="color:#b4fb00">society</span>**, **<span style="color:#eadc18">US News</span>** and **<span style="color:#db4c22">opinion</span>**. This can be seen in the clusters created by the eigenvalue centrality measure.
 
 ### snowden
 ![keyword2](keyword2.png)
@@ -109,10 +109,19 @@ Snowdens appear this year is mainly grouped in the categories: **<span style="co
 ![keyword3](keyword3.png)
 As for twitter, the categories that represent its advent in 2009 are: **<span style="color:#29a44b">technology</span>** and **<span style="color:#b4fb00">society</span>**.
 
-Distribution degree
+You are probably thinking that the networks are not saying much about what is relevant and what is not. So, we decided to graph some degree distributions and extract a little more information. The following graph shows the degree distribution for our three keywords: metoo, snowden and twitter.
 
-The number of peaks is the same as the number of clusters
-nodes are more connected  
+![Distribution](Distribution.png)
+
+The larger peaks in the distribution represent the biggest clusters per category, which relates to the information from the networks
+nodes are more connected. The following step was to extract the most central nodes for each ocurrence and for each type of centrality measure.
+
+
+| Degree  |      Eigenvalue     | Betweeness  |
+|----------|:-------------:|------:|
+|  Twitter Facebook and Google turn red for World Aids Day |  Twitter Facebook and Google turn red for World Aids Day | Twitter crowd goes bananas at SXSW |
+| Traffic to Twitter and Facebook fell in February in US says Compete  |  Twitter Facebook Google and LiveJournal under attack   |    Do you use Twitter for reporting  |
+| Twitter Facebook Google and LiveJournal under attack  | A good day for phishing on Facebook and Twitter |  Forecast for 2011 Mark Rock on Twitter s IPO and Arrington leaving TechCrunch |
 
 ## Sentiment of the headlines
 _____________________________
