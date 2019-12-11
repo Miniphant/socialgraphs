@@ -4,7 +4,6 @@ logo: circle.jpg
 description: Headlines, networks and language analysis
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
 defaults:
   # _posts
   - scope:
@@ -12,3 +11,5 @@ defaults:
       type: posts
     values:
       read_time: true
+theme: jekyll-theme-minimal
+
