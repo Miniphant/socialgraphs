@@ -12,7 +12,7 @@ ___
 
 The number of headlines per year spans from 60000 thousand to 70000. A further subdivision by categories shows the amount of headlines per subcategory, and surprizingly for the whole period the largest sub-category was sports, followed by Opinion, football and world news.
 
-![numberheadlines](numberheadlines.png)![circle](circle.jpg)
+![numberheadlines](numberheadlines.png)
 ________________________________________________________________
 ![Subcategories](Subcategories.png)
 
