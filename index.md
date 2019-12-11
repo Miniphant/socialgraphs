@@ -116,12 +116,33 @@ You are probably thinking that the networks are not saying much about what is re
 The larger peaks in the distribution represent the biggest clusters per category, which relates to the information from the networks
 nodes are more connected. The following step was to extract the most central nodes for each ocurrence and for each type of centrality measure.
 
-
+## twitter
 | Degree  |      Eigenvalue     | Betweeness  |
 |----------|:-------------:|------:|
 |  Twitter Facebook and Google turn red for World Aids Day |  Twitter Facebook and Google turn red for World Aids Day | Twitter crowd goes bananas at SXSW |
 | Traffic to Twitter and Facebook fell in February in US says Compete  |  Twitter Facebook Google and LiveJournal under attack   |    Do you use Twitter for reporting  |
 | Twitter Facebook Google and LiveJournal under attack  | A good day for phishing on Facebook and Twitter |  Forecast for 2011 Mark Rock on Twitter s IPO and Arrington leaving TechCrunch |
+
+## snowden
+
+| Degree  |      Eigenvalue     | Betweeness  |
+|----------|:-------------:|------:|
+|   Hillary Clinton NSA whistleblower Edward Snowden has right to legal defence in US video interview  |   Hillary Clinton NSA whistleblower Edward Snowden has right to legal defence in US video interview  | Autre Ne Veut creating protest songs for the Snowden generation  |
+| Edward Snowden s explosive NSA leaks have US in damage control mode   |  Edward Snowden s explosive NSA leaks have US in damage control mode    |    Laura Snowden review a young guitarist of poise and intensity   |
+| US may never know extent of Edward Snowden NSA leaks report   | NSA director Edward Snowden has caused irreversible damage to US  |  How would Snowden vote Republican debate shows limited options  |
+
+## metoo
+
+| Degree  |      Eigenvalue     | Betweeness  |
+|----------|:-------------:|------:|
+|  The MeToo movement gave a voice to silenced women so why are films about it all made by men  |  The MeToo movement gave a voice to silenced women so why are films about it all made by men  | Judy Punch review brutal and brilliantly bizarre MeToo fairytale  |
+| So men are afraid after MeToo Think about what it s like for women Jessica Valenti  | So men are afraid after MeToo Think about what it s like for women Jessica Valenti   |    Women with a MeToo complaint are being silenced for the sake of politics Gaby Hinsliff   |
+|  How should young women react as MeToo moves into dating Female writers discuss Anne Perkins Iman Amrani Marie Le Conte Rachel Shabi and Ash Sarkar  |  Young women are smashing it at Edinburgh as the MeToo legacy kicks in Rhiannon Lucy Cosslett  |   Metoo trend highlights sexual harassment in wake of Weinstein claims  |
+
+
+
+
+
 
 ## Sentiment of the headlines
 _____________________________
