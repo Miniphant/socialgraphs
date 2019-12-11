@@ -1,6 +1,14 @@
+masthead_title: "Final Project"
 title: Social Graphs and Interactions
 logo: circle.jpg
 description: Headlines, networks and language analysis
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
