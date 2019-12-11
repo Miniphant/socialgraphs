@@ -1,7 +1,7 @@
 # What can we learn from 20 years of headlines?
 
 At some point we stopped thinking about the way we consume media. The increase of journalistic sources, whether they are reliable or not, has only increased throughout the last two decades and the emergence of social media will only add data to the universe of information on the internet. 
-Parting from this idea, we decided to work with 20 year of headlines extrated from the english newspaper *[The Guardian](https://www.theguardian.com/international)*. Fortunately for us, **The Guardian** is an open newspaper and has a respectable international edition. According to them, The Guardian is now the 3rd largest individual newspaper website in the world.
+Parting from this idea, we decided to work with 20 year of headlines extrated from the english newspaper **[The Guardian](https://www.theguardian.com/international)**. Fortunately for us, The Guardian is an open newspaper and has a respectable international edition. According to them, The Guardian is now the 3rd largest individual newspaper website in the world.
 
 ![Theguardian](Theguardian.jpg)
 
@@ -12,8 +12,8 @@ ___
 
 The number of headlines per year spans from 60000 thousand to 70000. A further subdivision by categories shows the amount of headlines per subcategory, and surprizingly for the whole period the largest sub-category was sports, followed by Opinion, football and world news.
 
-![numberheadlines](numberheadlines.png)                           ![circle](circle.jpg)
-___
+![numberheadlines](numberheadlines.png)![circle](circle.jpg)
+________________________________________________________________
 ![Subcategories](Subcategories.png)
 
 According to this, before aditional analysis one could expect a sports based entity of information, or just a lot of football. At this point one would start to wonder, is the sports section so big, because its an English paper? or having a sports section makes the newspaper profitable, and more in tune with its readers interests?
@@ -39,12 +39,13 @@ Given the apparent randomness of the words, we chose the one person, phenomenon 
 
 ![numberheadlinekey](numberheadlinekey.png)
 
+<br>
 
 ## <span style="color:#4d98e7">The language</span>
 _______________
 
 The language used in the headlines is concise and impersonal (except for the Opinion section), as opposed to other sources of text on the internet, namely social media. Consequently the corpus of the headlines, lacked distinctive slang, or culturally accepted expressions that could make the text analysis challenging. However there are is a considerable amount of acronyms or nouns that may be unrelated to the bigger picture.
-As a first measure of analysis a wordcloud was biult based only on the frequency, and as it can be seen from the wordclouds below, the obvious words appear quite conspicuously: **<span style="color:#4d98e7">Trump, brexit, jhonson, world, etc</span>**. However, there are other less usual suspects in the mix: **say, year, word, etc.,** wich are usual verbs or nouns that can be found in any form of written language.
+As a first measure of analysis a wordcloud was biult based only on the frequency, and as it can be seen from the wordclouds below, the obvious words appear quite conspicuously: **<span style="color:#4d98e7">Trump, brexit, jhonson, world, etc</span>**. However, there are other less usual suspects in the mix: **say, year, word, happenes, review etc.,** wich are usual verbs or nouns that can be found in any form of written language.
 
 ![wordcloud](wordcloud.png)
 
@@ -97,19 +98,16 @@ The resulting network for each network, yielded
 
 ![keyword1](keyword1.png)
 
-<span style="color:#b4fb00">light green</span>
-<span style="color:#eadc18">yellow</span>
-<span style="color:#db4c22">The red</span>
-<span style="color:#6985d5">blue</span>
-<span style="color:#7bc25e">dark green</span>
+The #MeToo phenomenon is associated mainly with the following categories: <span style="color:#b4fb00">society</span>, <span style="color:#eadc18">US News</span> and <span style="color:#db4c22">opinion</span>. This can be seen in the clusters created by the eigenvalue centrality measure.
 
 ### snowden
 ![keyword2](keyword2.png)
 
-
+Snowdens appear this year is mainly grouped in the categories: **<span style="color:#db4c22">world news</span>**, **<span style="color:#ff9a00">media</span>** and **<span style="color:#b4fb00">society</span>**.
 
 ### twitter
 ![keyword3](keyword3.png)
+As for twitter, the categories that represent its advent in 2009 are: **<span style="color:#29a44b">technology</span>** and **<span style="color:#b4fb00">society</span>**.
 
 Distribution degree
 
