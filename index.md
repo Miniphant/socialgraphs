@@ -117,6 +117,7 @@ The larger peaks in the distribution represent the biggest clusters per category
 nodes are more connected. The following step was to extract the most central nodes for each ocurrence and for each type of centrality measure.
 
 ## twitter
+
 | Degree  |      Eigenvalue     | Betweeness  |
 |----------|:-------------:|------:|
 |  Twitter Facebook and Google turn red for World Aids Day |  Twitter Facebook and Google turn red for World Aids Day | Twitter crowd goes bananas at SXSW |
