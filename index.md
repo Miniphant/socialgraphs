@@ -12,7 +12,8 @@ _____________________
 
 The number of headlines per year spans from 60000 thousand to 70000. A further subdivision by categories shows the amount of headlines per subcategory, and surprizingly for the whole period the largest sub-category was sports, followed by Opinion, football and world news.
 
-![numberheadlines](numberheadlines.png)                                                                            ![circle](circle.jpg) _____
+![numberheadlines](numberheadlines.png)                           ![circle](circle.jpg)
+_____
 ![Subcategories](Subcategories.png)
 
 According to this, before aditional analysis one could expect a sports based entity of information, or just a lot of football. At this point one would start to wonder, is the sports section so big, because its an English paper? or having a sports section makes the newspaper profitable, and more in tune with its readers interests?
@@ -62,17 +63,33 @@ The network analysis includes three types of network calculation for each ocurre
 _______________
 
 The language used in the headlines is concise and impersonal (except for the Opinion section), as opposed to other sources of text on the internet, namely social media. Consequently the corpus of the headlines, lacked distinctive slang, or culturally accepted expressions that could make the text analysis challenging. However there are is a considerable amount of acronyms or nouns that may be unrelated to the bigger picture.
-As a first measure of analysis a wordcloud was biult based only on the frequency, and as it can be seen from the wordclouds below, the obvious words appear quite conspicuously: **<span style="color:#4d98e7">Trump, brexit, jhonson, world, etc</span>**. However, there are other less usual suspects in the mix: **say, year, word, etc.**
+As a first measure of analysis a wordcloud was biult based only on the frequency, and as it can be seen from the wordclouds below, the obvious words appear quite conspicuously: **<span style="color:#4d98e7">Trump, brexit, jhonson, world, etc</span>**. However, there are other less usual suspects in the mix: **say, year, word, etc.,** wich are usual verbs or nouns that can be found in any form of written language.
 
 ![wordcloud](wordcloud.png)
 
 
-with tf idf
- ![2009](2009.png)
- 
+So, what else can we do if we want to examine this corpus in a less obvious fashion? 
+
+ To accomplish this purpose we used [term frequency–inverse document frequency](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) (*TF-IDF*), which adds weight to the words that are important for the body of text.
+
+### 2006-2010
+
+The wordcloud selcted for this period is the one for the year 2009. 
+![2009](2009.png)
+Throughout this year, some of the the events with more relative importance:
+Obama was inagurated as president of the  US
+The [count of tweets exploded](https://medium.com/dmrc-at-large/twitter-probably-isn-t-dying-but-is-it-becoming-less-sociable-d768a9968982)
+Swine flu outbreak
+
+
+
+### 2011-2015
  ![2013](2013.png)
- 
+
+### 2015-2019
  ![2018](2018.png)
+ 
+ 
 
 ## Sentiment of the headlines
 _____________________________
