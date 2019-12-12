@@ -151,6 +151,6 @@ nodes are more connected. The following step was to extract the most central nod
 _____________________________
 
 
-
+![sent](sent.png)
 
 
